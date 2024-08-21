@@ -26,7 +26,7 @@ export const getPlaneKeyframes = (
           "--left-wing-third-x": "0%",
           "--left-wing-third-y": "100%",
           "--left-body-third-x": "40%",
-          "--right-wing-first-x": "50%",
+          "--right-wing-first-x": "50%", 
           "--right-wing-first-y": "0%",
           "--right-wing-second-x": "60%",
           "--right-wing-second-y": "100%",

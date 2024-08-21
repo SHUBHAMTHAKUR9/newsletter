@@ -5,18 +5,18 @@ export const socials = [
   {
     id: 1,
     name: "Instagram",
-    url: "https://instagram.com/sha0urya?igshid=Y2M0YTlkZGNmOQ==",
-    handle: "@sha0urya",
+    url: "https://instagram.com/",
+    handle: "@",
   },
   {
     id: 2,
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/sha0urya/",
-    handle: "@sha0urya",
+    url: "https://www.linkedin.com/in/",
+    handle: "@",
   },
 ];
 
-const title = "Praveen Kumar";
+const title = "Shubham Kumar Thakur";
 const description =
   "Full-Stack Developer 🧑🏻‍💻 ";
 const image =
@@ -28,8 +28,8 @@ export const metaData: Metadata = {
   openGraph: {
     title,
     description,
-    url: "https://praveenkportfolio.netlify.app/",
-    siteName: "Praveen Kumar",
+    url: "https://.netlify.app/",
+    siteName: "Shubham Kumar Thakur",
     images: [{ url: image }],
     locale: "en-US",
     type: "website",
